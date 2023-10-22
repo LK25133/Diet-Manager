@@ -1,0 +1,11 @@
+{
+    "Meals": [{
+        "foods": [{
+            "name": "321",
+            "calorie": 321,
+            "weight": 321
+        }],
+        "meal calories": 1030
+    }],
+    "daily calories": 1030
+}

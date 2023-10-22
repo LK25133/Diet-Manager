@@ -1,0 +1,35 @@
+{
+    "Meals": [
+        {
+            "foods": [
+                {
+                    "name": "chicken",
+                    "calorie": 150,
+                    "weight": 100
+                },
+                {
+                    "name": "egg",
+                    "calorie": 100,
+                    "weight": 100
+                }
+            ],
+            "meal calories": 250
+        },
+        {
+            "foods": [
+                {
+                    "name": "beef",
+                    "calorie": 200,
+                    "weight": 100
+                },
+                {
+                    "name": "water",
+                    "calorie": 25,
+                    "weight": 50
+                }
+            ],
+            "meal calories": 212
+        }
+    ],
+    "daily calories": 462
+}
